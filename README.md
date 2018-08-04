@@ -1,2 +1,2 @@
-# ciudadblanca.github.io
-Portal Web
+# Centro Cultural Ciudad Blanca
+Como grupo de trabajo de las universidades publicas de Bogotá trabajamos por una educación popular, que elimine todo tipo de discriminación y permita la formación tanto de docentes como estudiantes.
