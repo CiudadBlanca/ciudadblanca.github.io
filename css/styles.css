@@ -25,6 +25,10 @@ body { margin: 0; padding: 0 }
   list-style: none;
   padding: 1rem;
 }
+.nav-link:hover {
+  background-color: var(--second);
+  transition: background-color .5s ease-in;
+}
 .nav-link_text {
   text-decoration: none;
   color: var(--first);
