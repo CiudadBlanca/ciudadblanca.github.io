@@ -33,3 +33,28 @@ body { margin: 0; padding: 0 }
   text-decoration: none;
   color: var(--first);
 }
+
+.section.home {
+  min-height: 85vh;
+  background-image: url("../images/admission.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.home-text {
+  color: var(--first);
+  font-size: 5vw;
+  text-transform: uppercase;
+}
+.home-link {
+  text-decoration: none;
+  background-color: var(--second);
+  color: var(--first);
+  border-radius: 5px;
+  padding: 1rem;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+}
