@@ -1,0 +1,31 @@
+:root{
+  --first: #f7f8f9;
+  --second: #5db3ff;
+  --third: #262f3a;
+  --accent: #ffbc2e;
+}
+
+body { margin: 0; padding: 0 }
+
+.nav {
+  background: var(--third);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.nav-logo_text{
+  font-size: 2rem;
+  color: var(--first);
+  text-decoration: none;
+}
+.nav-links {
+  display: flex;
+}
+.nav-link {
+  list-style: none;
+  padding: 1rem;
+}
+.nav-link_text {
+  text-decoration: none;
+  color: var(--first);
+}
